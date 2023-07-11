@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ZarinaOrgubaeva.github.io/tailwindcss.git/static/css/main.5f4e0565.css",
+    "main.js": "/ZarinaOrgubaeva.github.io/tailwindcss.git/static/js/main.dc97fc4b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/ZarinaOrgubaeva.github.io/tailwindcss.git/static/js/787.28cb0dcd.chunk.js",
+    "static/media/img.png": "/ZarinaOrgubaeva.github.io/tailwindcss.git/static/media/img.783425fbc447eeae8186.png",
+    "index.html": "/ZarinaOrgubaeva.github.io/tailwindcss.git/index.html",
+    "static/media/burger.svg": "/ZarinaOrgubaeva.github.io/tailwindcss.git/static/media/burger.973721b6f3b14c650a7971210fce621b.svg",
+    "main.5f4e0565.css.map": "/ZarinaOrgubaeva.github.io/tailwindcss.git/static/css/main.5f4e0565.css.map",
+    "main.dc97fc4b.js.map": "/ZarinaOrgubaeva.github.io/tailwindcss.git/static/js/main.dc97fc4b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/ZarinaOrgubaeva.github.io/tailwindcss.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f4e0565.css",
+    "static/js/main.dc97fc4b.js"
+  ]
+}
